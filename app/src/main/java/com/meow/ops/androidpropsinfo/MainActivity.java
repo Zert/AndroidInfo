@@ -1,4 +1,4 @@
-package com.meow.ops.androidinfo;
+package com.meow.ops.androidpropsinfo;
 
 import android.content.Context;
 import android.content.pm.PackageManager;
@@ -16,9 +16,9 @@ import com.google.android.gms.ads.identifier.AdvertisingIdClient;
 import com.google.android.gms.common.GooglePlayServicesNotAvailableException;
 import com.google.android.gms.common.GooglePlayServicesRepairableException;
 import com.google.android.gms.common.GooglePlayServicesUtil;
-import com.meow.ops.androidinfo.root.RootUtil1;
-import com.meow.ops.androidinfo.root.RootUtil2;
-import com.meow.ops.androidinfo.root.RootUtil3;
+import com.meow.ops.androidpropsinfo.root.RootUtil1;
+import com.meow.ops.androidpropsinfo.root.RootUtil2;
+import com.meow.ops.androidpropsinfo.root.RootUtil3;
 
 import java.io.BufferedReader;
 import java.io.IOException;

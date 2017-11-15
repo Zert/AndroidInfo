@@ -1,4 +1,4 @@
-package com.meow.ops.androidinfo.root;
+package com.meow.ops.androidpropsinfo.root;
 
 import java.io.File;
 

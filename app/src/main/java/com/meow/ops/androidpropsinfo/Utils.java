@@ -1,4 +1,4 @@
-package com.meow.ops.androidinfo;
+package com.meow.ops.androidpropsinfo;
 
 import java.net.NetworkInterface;
 import java.util.Collections;
